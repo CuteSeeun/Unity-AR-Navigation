@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5102997527170310414
+  m_GuidHigh: 7907963539909175707
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5455908344130920030
+      m_GuidHigh: 14129771494288630179
+    m_SerializedTextureGuid:
+      m_GuidLow: 16502350725286314976
+      m_GuidHigh: 2286923800048109755
+    m_Size: {x: 1, y: 0.8068694}
+    m_SpecifySize: 1
+    m_Name: AED
+    m_Texture: {fileID: 2800000, guid: 2b99c3e0208de504bb08415a14c9bc1f, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5015885542523649880
+      m_GuidHigh: 14955013637731706540
+    m_SerializedTextureGuid:
+      m_GuidLow: 11796119003507510466
+      m_GuidHigh: 4889405231674569098
+    m_Size: {x: 1, y: 0.37558687}
+    m_SpecifySize: 1
+    m_Name: GoCenter
+    m_Texture: {fileID: 2800000, guid: 344cccc23bbca3b48a31e62c27a8da43, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5481749987245960906
+      m_GuidHigh: 3380949484902508424
+    m_SerializedTextureGuid:
+      m_GuidLow: 2104465757481987131
+      m_GuidHigh: 7971916892297485787
+    m_Size: {x: 1, y: 1.3916377}
+    m_SpecifySize: 1
+    m_Name: NoSmoke
+    m_Texture: {fileID: 2800000, guid: dcafec3b90741d34dbdd53302df0a16e, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4946667874750554112
+      m_GuidHigh: 7174641108146805929
+    m_SerializedTextureGuid:
+      m_GuidLow: 15160447381340033232
+      m_GuidHigh: 5852452125412776872
+    m_Size: {x: 1, y: 0.62946427}
+    m_SpecifySize: 1
+    m_Name: Park
+    m_Texture: {fileID: 2800000, guid: e0c610d0ba91d264a85b355033163851, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5526080498164310452
+      m_GuidHigh: 1060533998175769011
+    m_SerializedTextureGuid:
+      m_GuidLow: 13097635381015804909
+      m_GuidHigh: 4613514545869805368
+    m_Size: {x: 1, y: 0.8400901}
+    m_SpecifySize: 1
+    m_Name: Ride
+    m_Texture: {fileID: 2800000, guid: 1b08fbed25fcb5c438d7aa38097f0640, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5578726253705594980
+      m_GuidHigh: 9171552060728137887
+    m_SerializedTextureGuid:
+      m_GuidLow: 11544079920135784892
+      m_GuidHigh: 600733597341038201
+    m_Size: {x: 1, y: 3.0920246}
+    m_SpecifySize: 1
+    m_Name: Cafe.07am_
+    m_Texture: {fileID: 2800000, guid: 3269c9bccf86a03479b62722063c5608, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4651133490388447912
+      m_GuidHigh: 4913779526995974324
+    m_SerializedTextureGuid:
+      m_GuidLow: 11030486475422339107
+      m_GuidHigh: 2979329274812512507
+    m_Size: {x: 1, y: 1.0010366}
+    m_SpecifySize: 1
+    m_Name: Thebreads36.5
+    m_Texture: {fileID: 2800000, guid: e34c902329019914fb381fb630b45829, type: 3}

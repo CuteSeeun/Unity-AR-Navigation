@@ -1,0 +1,39 @@
+.JustButtonFunc {
+    color: rgb(27, 27, 27);
+    -unity-text-outline-color: rgb(253, 252, 255);
+    transform-origin: center;
+    background-color: rgb(253, 252, 255);
+    height: 40%;
+    max-height: 30%;
+    -unity-font-style: bold;
+    -unity-font: url('project://database/Assets/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=5f45a342bd7276343b97f27c5cbd067a&type=3#NotInter-Regular');
+    font-size: 20px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}
+
+.JustButtonFunc:active {
+    color: rgb(27, 27, 27);
+    -unity-text-outline-color: rgb(253, 252, 255);
+    transform-origin: center;
+    background-color: rgb(204, 204, 204);
+    height: 40%;
+    max-height: 30%;
+    -unity-font-style: bold;
+    -unity-font: url('project://database/Assets/UnityDefaultRuntimeTheme.tss?fileID=2230732570650464555&guid=5f45a342bd7276343b97f27c5cbd067a&type=3#NotInter-Regular');
+    font-size: 35px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-left-color: rgba(0, 0, 0, 0);
+    border-right-color: rgba(0, 0, 0, 0);
+    border-top-color: rgba(0, 0, 0, 0);
+    border-bottom-color: rgba(0, 0, 0, 0);
+}

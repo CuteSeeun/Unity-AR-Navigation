@@ -1,0 +1,42 @@
+.goMain {
+    bottom: 0;
+    position: absolute;
+    height: 200px;
+    width: 100%;
+    background-image: resource('Sprite/MapUI_5');
+    transition-duration: 1s;
+    transition-timing-function: ease-out-bounce;
+}
+
+.goMain:hover {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    scale: 1.2 1.2;
+    translate: 134px -35px;
+}
+
+.goMain:active {
+    background-image: resource('Sprite/MapUI_6');
+}
+
+.GoAR {
+    bottom: auto;
+    top: 2364px;
+    width: 292px;
+    left: 1308px;
+    background-image: resource('Sprite/MapUI_2');
+    transition-duration: 0.5s;
+    transition-timing-function: ease-out-elastic;
+    -unity-background-image-tint-color: rgb(255, 223, 242);
+}
+
+.GoAR:hover {
+    -unity-background-image-tint-color: rgb(255, 255, 255);
+    scale: 1.2 1.2;
+    background-image: resource('Sprite/Back3');
+    background-color: rgb(255, 255, 255);
+    translate: -20px -20px;
+}
+
+.GoAR:active {
+    background-image: resource('Sprite/Back4');
+}

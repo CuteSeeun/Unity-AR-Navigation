@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac999e2876c05854f8c31e28ffba42d0, type: 3}
+  m_Name: Random Pet Database
+  m_EditorClassIdentifier: 
+  pets:
+  - PetName: DogMonA
+    PetImage: {fileID: 3321997843755114537, guid: 593efd3980807f94ab9dc292f0fee3cf, type: 3}
+  - PetName: DogMonB
+    PetImage: {fileID: 7784226102949672958, guid: be86a75d409b01b4fb20a1110545d906, type: 3}
+  - PetName: CubeMon
+    PetImage: {fileID: 3073364296084225790, guid: fe03e5f2046d51641a932f722626d3d7, type: 3}
+  - PetName: RingMon
+    PetImage: {fileID: 7080163833919047792, guid: 7edeb1311b7d6c64f85db811202e8625, type: 3}
+  - PetName: RollMon
+    PetImage: {fileID: 5648235607118142706, guid: 01c6409bb7d3e044fabee40dfb32fd21, type: 3}
+  - PetName: TriMon
+    PetImage: {fileID: 9156121151511601653, guid: 26186564e76ae52458cc36d08dd73104, type: 3}

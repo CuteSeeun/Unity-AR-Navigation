@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 0; align-items: center; justify-content: space-around; height: 60px; flex-shrink: 0; padding-top: 0; background-color: rgba(255, 255, 255, 0); border-top-left-radius: 19px; border-top-right-radius: 19px; border-bottom-right-radius: 19px; border-bottom-left-radius: 19px; -unity-text-align: middle-left; flex-direction: column; font-size: 16px;">
+        <ui:Label tabindex="-1" text="Label" parse-escape-sequences="true" display-tooltip-when-elided="true" name="MonsterName" style="font-size: 30px; -unity-font-style: bold;" />
+    </ui:VisualElement>
+</ui:UXML>
