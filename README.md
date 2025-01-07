@@ -10,7 +10,7 @@
     AR Navigation.mp4  :  이미지 클릭 -> 영상 시청 
   </summary>
   
-   [![유튜브 미리보기 이미지](https://img.youtube.com/vi/9ptV7AUB8UE&t=489s/0.jpg)](https://www.youtube.com/watch?v=9ptV7AUB8UE&t=489s)
+   [![유튜브 미리보기 이미지](https://img.youtube.com/vi/9ptV7AUB8UE/0.jpg)](https://www.youtube.com/watch?v=9ptV7AUB8UE&t=489s)
 </details>  
 
 Unity로 개발한 안드로이드용 AR 내비게이션입니다.  
