@@ -1,6 +1,10 @@
 ## 프로젝트 소개
 <img src="https://github.com/CuteSeeun/Unity-AR-Navigation/blob/main/2_AR.pptx.png" alt="커버 이미지" width="950" />  
 
+Unity로 개발한 안드로이드용 AR 내비게이션입니다.  
+이 어플은 3D PET과 함께 실시간 경로 안내와 AR 내비게이션을 제공하는 서비스로, 사용자에게 직관적인 길찾기와 재미있는 상호작용 경험을 제공합니다.  
+지도에서 위치 검색, AR 화살표 경로 안내, 이미지 인식을 통한 정보 팝업 기능을 지원합니다. 또한, 다양한 PET 캐릭터와 상호작용하며 즐거운 내비게이션을 경험할 수 있습니다.  
+
 <details>
   <summary>
     <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
@@ -12,10 +16,6 @@
   
    [![유튜브 미리보기 이미지](https://img.youtube.com/vi/9ptV7AUB8UE/0.jpg)](https://www.youtube.com/watch?v=9ptV7AUB8UE&t=489s)
 </details>  
-
-Unity로 개발한 안드로이드용 AR 내비게이션입니다.  
-이 어플은 3D PET과 함께 실시간 경로 안내와 AR 내비게이션을 제공하는 서비스로, 사용자에게 직관적인 길찾기와 재미있는 상호작용 경험을 제공합니다.  
-지도에서 위치 검색, AR 화살표 경로 안내, 이미지 인식을 통한 정보 팝업 기능을 지원합니다. 또한, 다양한 PET 캐릭터와 상호작용하며 즐거운 내비게이션을 경험할 수 있습니다.  
 
 ## 개발 기간
 - 2024.04.08 ~ 2024.05.16
